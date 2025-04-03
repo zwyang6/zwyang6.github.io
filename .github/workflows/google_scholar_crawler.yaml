@@ -24,6 +24,6 @@ jobs:
         export remote_repo="git@github.com:zwyang6/zwyang6.github.io.git"
         git add *.json
         git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
+        git push git@github.com:zwyang6/zwyang6.github.io.git HEAD:google-scholar-stats --force
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}

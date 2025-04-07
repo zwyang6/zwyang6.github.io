@@ -1,5 +1,6 @@
 # 🔥 News
 
+- [2025-04] 🎉🎉 one paper is honored as **[CVPR 2025 Oral](https://zwyang6.github.io/)**.
 - [2025-03] 🎉🎉 one paper is accepted to **[TMM 2025](https://arxiv.org/pdf/2404.08195)**.
 - [2025-02] 🎉🎉 two papers are accepted to **[CVPR 2025](https://arxiv.org/abs/2503.20826)**.
 - [2025-01] 🎉🎉 one paper is honored as **[AAAI 2025 Oral](https://arxiv.org/pdf/2412.10776v1)**.

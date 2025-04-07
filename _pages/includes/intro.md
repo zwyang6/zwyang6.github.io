@@ -1,7 +1,7 @@
 
 Hi! My name is Zhiwei Yang. I'm a Ph.D. student at Academy for Engineering and Technology of <i class="fas fa-university"></i> **Fudan University**. I am now working on Multimodal Perception, Weakly-supervised Learning and Medical Image Processing.
 
-🌈 **I am now seeking intership and formal job opportunities in MLLMs applications！** Please feel free to email zhiwei at [zwyang.research@gmail.com](mailto:zwyang21@m.fudan.edu.cn) and get more familiar with me from [My CV](assets/Jinxiang's CV.pdf).
+🌈 **I am now seeking intership and formal job opportunities in MLLMs applications！** Please feel free to email zhiwei at [zwyang.research@gmail.com](mailto:zwyang21@m.fudan.edu.cn) and get more familiar with me from [My CV](images/resume/yzw_resume.pdf).
 
 I am currently a member of Shanghai Key Laboratory of Medical Image Computing and Computer Assisted Intervention <i class="fab fa-microsoft"></i> **MICCAI Lab**, co-supervised by <a href="https://swang.miccai.cloud/">Prof. Shuo Wang</a> and <a href="https://miccai.fudan.edu.cn/34225/list.htm">Prof. Zhijian Song</a>.
 Prior to this, I received the B.E. degree in Mechanical Engineering from Hohai University, Nanjing, China, in 2021, supervised by <a href="https://scholar.google.com/citations?hl=en&user=sTQwwu4AAAAJ">Prof. Yanjie Wang</a>.

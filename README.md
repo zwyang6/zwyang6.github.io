@@ -7,7 +7,7 @@ Homepage of Zhiwei Yang
 
 <p align="center">
     <br>
-    <img src="docs/screenshot.png" width="100%"/>
+    <img src="docs/my_screenshot.png" width="100%"/>
     <br>
 </p>
 

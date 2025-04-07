@@ -15,7 +15,7 @@ jobs:
         python3 update.py
         git init
         git config --global user.name "${GITHUB_ACTOR}"
-        git config --global user.email "fukexuefdu@163.com"
+        git config --global user.email "zwyang21@m.fudan.edu.cn"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GHRS_GITHUB_API_TOKEN }}@github.com/zwyang6/zwyang6.git"
         git add README.md
         git add images

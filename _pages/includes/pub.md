@@ -67,7 +67,7 @@
 
 - Yucong Meng\*, **Zhiwei Yang\* (Co-first author)**, Yonghong Shi, Zhijian Song
 - The 39th Annual AAAI Conference on Artificial Intelligence
-- [[Arxiv]](https://github.com/XiaoMengLiLiLi/FPS-Former) [[Code]](https://github.com/XiaoMengLiLiLi/FPS-Former)
+- [[Arxiv]](https://arxiv.org/pdf/2412.10776) [[Code]](https://github.com/XiaoMengLiLiLi/FPS-Former)
 </div>
 </div>
 

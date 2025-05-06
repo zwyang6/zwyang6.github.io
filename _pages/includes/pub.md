@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pubs/ExCEL_CVPR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[CVPR2025] Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation**
+**[CVPR 2025] Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation**
 
 - **Zhiwei Yang**, Yucong Meng, Kexue Fu, Feilong Tang, Shuo Wang, Zhijian Song
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition
@@ -15,7 +15,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/pubs/UniA_TMM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[TMM2025] Tackling Ambiguity from Perspective of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation**
+**[TMM 2025] Tackling Ambiguity from Perspective of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation**
 
 - **Zhiwei Yang**, Yucong Meng, Kexue Fu, Shuo Wang, Zhijian Song
 - IEEE Transactions on Multimedia

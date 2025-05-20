@@ -52,7 +52,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature BME 2025</div><img src='images/pubs/Med_EndoKED_NatureBME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Nature BME- UnderReview] Knowledge Extraction and Distillation from Large-Scale Image-Text Colonoscopy Reports Leveraging Large Language and Vision Models**
+**[Nature BME] Knowledge Extraction and Distillation from Large-Scale Image-Text Colonoscopy Reports Leveraging Large Language and Vision Models**
 
 - Shuo Wang\*, Yan Zhu\*, Xiaoyuan Luo\*, **Zhiwei Yang\* (Co-first author)**, Yizhe Zhang, Peiyao Fu, Manning Wang, Zhijian Song, Quanlin Li, Pinghong Zhou, Yike Guo
 - Nature Biomedical Engineering

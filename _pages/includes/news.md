@@ -1,6 +1,6 @@
 # 🔥 News
 
-- [2025-05] 🎉🎉 one paper is accepted to **[Nature Biomedical Engineering (IF=27.7)](https://arxiv.org/pdf/2310.11173)**.
+- [2025-05] 🎉🎉 one paper is accepted to **[Nature BME (IF=27.7)](https://arxiv.org/pdf/2310.11173)**.
 - [2025-04] 🎉🎉 one paper is honored as **[CVPR 2025 Oral](https://zwyang6.github.io/)**.
 - [2025-03] 🎉🎉 one paper is accepted to **[TMM 2025](https://arxiv.org/pdf/2404.08195)**.
 - [2025-02] 🎉🎉 two papers are accepted to **[CVPR 2025](https://arxiv.org/abs/2503.20826)**.

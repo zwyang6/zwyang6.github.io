@@ -6,7 +6,7 @@ Hi! My name is Zhiwei Yang. I'm a Ph.D. student at the Academy for Engineering a
 I am currently a member of the Shanghai Key Laboratory of Medical Image Computing and Computer Assisted Intervention <i class="fab fa-microsoft"></i> **MICCAI Lab**, co-supervised by <a href="https://swang.miccai.cloud/">Prof. Shuo Wang</a> and <a href="https://miccai.fudan.edu.cn/34225/list.htm">Prof. Zhijian Song</a>.
 Previously, I received my B.E. degree in Mechanical Engineering from Hohai University, Nanjing, China, in 2021, supervised by <a href="https://scholar.google.com/citations?hl=en&user=sTQwwu4AAAAJ">Prof. Yanjie Wang</a>.
 
-📚 My research interest includes Multimodal Perception, Weakly-supervised Learning and Medical Image Processing. I have published 15+ papers at the top international AI conferences and journals such as Nature Biomedical Engineering (IF=27.7), CVPR (Oral), AAAI (Oral), ICCV, MICCAI, TMM, *etc*. 
+📚 My research interest includes Multimodal Perception, Weakly-supervised Learning and Medical Image Processing. I have published 15+ papers at the top international AI conferences and journals such as Nature BME (IF=27.7), CVPR (Oral), AAAI (Oral), ICCV, MICCAI, TMM, *etc*. 
 
 My works include [ENDO-KED](https://arxiv.org/pdf/2310.11173), [SeCo](https://arxiv.org/pdf/2402.18467), [ExCEL](https://arxiv.org/pdf/2503.20826), [MoRe](https://arxiv.org/pdf/2412.11076), and [UniA](https://arxiv.org/pdf/2404.08195).
 
